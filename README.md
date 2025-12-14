@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I’m a recent graduate in **Bachelor Multimedia and Creative Technologies (MCT)**, as Next web Developer which specializes in full-stack web development.
+Graduate: **Bachelor's Multimedia and Creative Technologies (MCT)**, as Next web Developer which specializes in full-stack web development.
 
 
 ## ⚡ Tech Stack
